@@ -3,7 +3,7 @@ import { PRODUCT_LIST, SEARCH_PRODUCT, SET_PRODUCT_LIST } from './constant'
 
 function* getProducts() {
     yield console.log("get product is called")
-    let data = yield fetch("http://localhost:3500/products");
+    let data = yield fetch("https://preethuprakasan24.github.io/api/db.json");
     data = yield data.json()
     console.log("action is called", data);
     yield put({ type: SET_PRODUCT_LIST, data }) //pass data to reducer with name set_product_list
@@ -11,7 +11,7 @@ function* getProducts() {
 
 function* searchProducts(data) {
     yield console.log("search product is called")
-    let response = yield fetch(`http://localhost:3500/products?q=${data.query}`);
+    let response = yield fetch(`https://preethuprakasan24.github.io/api/db.json?q=${data.query}`);
     const result = yield response.json();
     console.log("action is called", result);
     yield put({ type: SET_PRODUCT_LIST, data: result }) //pass data to reducer with name set_product_list
