@@ -1,0 +1,10 @@
+.menu-item a{
+    text-decoration: none;
+    color: rgb(182, 181, 181);
+    font-size: 15px;
+}
+
+.footer-menu a{
+    text-decoration: none;
+    color: rgb(182, 181, 181);
+}

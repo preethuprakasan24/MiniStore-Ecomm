@@ -1,0 +1,36 @@
+
+.cart_data_list{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 57px;
+}
+
+.cart_data_list table{
+    border-collapse: collapse;
+    width: 60%;
+}
+
+.cart_data_list table td{
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.price_detail{
+    flex: 35%;
+    margin: 0px 30px;
+
+}
+
+.price_detail .adjust_price{
+display: flex;
+justify-content: space-around;
+margin-bottom: 10px;
+padding-bottom: 10px;
+border-bottom: 1px solid #ddd;
+}
+
+.price_detail .adjust_price span{
+    font-size: 20px;
+    }
+    
+
