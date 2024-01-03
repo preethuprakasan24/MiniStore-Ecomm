@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung M 40",
+      "color": "Black",
+      "price": "15000",
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m40-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 13",
+      "color": "White",
+      "price": "55000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://themewagon.github.io/MiniStore/images/product-item1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 13 Pro Max",
+      "color": "blue",
+      "price": "155000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://themewagon.github.io/MiniStore/images/product-item2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 14",
+      "color": "Black",
+      "price": "175000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://themewagon.github.io/MiniStore/images/product-item4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iphone 14",
+      "color": "Black",
+      "price": "175000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://suprememobiles.in/cdn/shop/products/Iphone-14-128-Now-Available.jpg?v=1664637670"
+    },
+    {
+      "id": 6,
+      "name": "Iphone 14",
+      "color": "Black",
+      "price": "175000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MT4J3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693594197616"
+    },
+    {
+      "id": 7,
+      "name": "Iphone 14",
+      "color": "Black",
+      "price": "175000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdkzaMvgVz0h9ny8j7RGnl5bBVhQFeZtyjQ&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Iphone 14",
+      "color": "Black",
+      "price": "175000",
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRok4C4EzP8aHCxrf4SQm93SsIlcmqX6tytGg&usqp=CAU"
+    }
+  ]
+}
